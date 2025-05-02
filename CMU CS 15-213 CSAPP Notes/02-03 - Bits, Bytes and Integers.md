@@ -8,6 +8,14 @@
 | NOR      | `~(A|B)`| `~(1101 \| 1011)`            | `0000`           | Complement of Union           | U - (A ∪ B)            |
 | XNOR     | `~(A^B)`| `~(1101 ^ 1011)`             | `1001`           | Negated Symmetric Difference  | {x ∈ A ∩ B or x ∉ A∪B} |
 
+**Difference from logical operations**: 
+1. `&&`, `||`  stops early so we can use them to avoid null pointer exceptions.
+2. Logical operations take 0 as false and any other as true. And it returns a true as 1.
+   >So it's difference to ~ twice and ! twice.
+   >
+   >Doing ! two times will always give you 1.
+---
+
 **Word size**: Nominal size of pointer data. _64-bit_ machine means 8-byte addresses and _32-bit_ machine means 4-byte addresses.
 
 **Fixed-size integer types**: Using `int32_t`, `uint32_t`, `int64_t` instead of `int`, `unsigned int`, `long` respectively ensures that data sizes are independent of compilers or machines.

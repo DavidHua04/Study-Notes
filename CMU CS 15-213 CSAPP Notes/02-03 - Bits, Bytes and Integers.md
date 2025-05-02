@@ -1,4 +1,12 @@
-**Hexadecimal**: 1010 -> A, 1100 -> C, 1111 -> F
+| Operator | Symbol | Binary Operation Example     | Result (Binary) | Set Interpretation           | Result (Set)          |
+|----------|--------|------------------------------|------------------|-------------------------------|------------------------|
+| AND      | `&`    | `1101` & `1011`               | `1001`           | A ∩ B (Intersection)          | {x ∈ A and x ∈ B}      |
+| OR       | `|`    | `1101` \| `1011`              | `1111`           | A ∪ B (Union)                 | {x ∈ A or x ∈ B}       |
+| XOR      | `^`    | `1101` ^ `1011`               | `0110`           | Symmetric Difference (A ⊕ B) | {x ∈ A or B but not both} |
+| NOT      | `~`    | `~1101` (on 4 bits)           | `0010`           | Complement                    | {x ∉ A}                |
+| NAND     | `~(A&B)`| `~(1101 & 1011)`             | `0110`           | Complement of Intersection    | U - (A ∩ B)            |
+| NOR      | `~(A|B)`| `~(1101 \| 1011)`            | `0000`           | Complement of Union           | U - (A ∪ B)            |
+| XNOR     | `~(A^B)`| `~(1101 ^ 1011)`             | `1001`           | Negated Symmetric Difference  | {x ∈ A ∩ B or x ∉ A∪B} |
 
 **Word size**: Nominal size of pointer data. _64-bit_ machine means 8-byte addresses and _32-bit_ machine means 4-byte addresses.
 

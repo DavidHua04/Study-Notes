@@ -1,0 +1,101 @@
+## Nielsen's 10 Usability Heuristics with Examples
+### 1. Visibility of System Status
+A well-designed system should always keep users informed about what is happening through appropriate feedback within a reasonable time.
+
+Real-Life Example:
+When you use your smartphone, you immediately see the battery percentage, Wi-Fi connectivity, and notifications for missed calls or messages. This immediate feedback helps users stay aware of their device’s status and take necessary actions.
+
+Best Practice:
+- Display loading indicators when a process is in progress.
+- Provide real-time feedback, such as a progress bar during file downloads.
+- Show confirmation messages after an action is completed successfully.
+
+### 2. Match Between the System and the Real World
+The system should use language, icons, and visuals that users are familiar with, reducing cognitive load and making interactions more intuitive.
+
+Real-Life Example:
+In e-commerce apps like Amazon, the shopping cart icon resembles a physical cart, making it instantly recognizable.
+
+Best Practice:
+- Use real-world metaphors, such as a trash bin icon for deleting files.
+- Keep terminology simple and understandable for the target audience.
+
+### 3. User Control and Freedom
+Users should have the ability to easily navigate and undo actions if they make mistakes.
+
+Real-Life Example:
+Gmail allows users to “Undo Send” an email within a few seconds after sending it. This feature prevents accidental emails from being permanently sent.
+
+Best Practice:
+- Offer undo and redo options.
+- Allow users to exit processes quickly without losing progress.
+
+### 4. Consistency and Standards
+Maintaining consistency in UI elements and interactions ensures users do not have to relearn new patterns when navigating an interface.
+
+Real-Life Example:
+On most websites, clicking the logo takes users back to the homepage. This convention is widely recognized, reducing confusion.
+
+Best Practice:
+- Maintain a uniform layout and design across all pages.
+- Use standard icons and interface elements (e.g., a magnifying glass for search).
+
+### 5. Error Prevention
+Preventing errors is better than providing error messages. A well-designed system anticipates mistakes and guides users accordingly.
+
+Real-Life Example:
+Google Chrome warns users when they are about to close multiple tabs, preventing accidental loss of data.
+
+Best Practice:
+- Implement confirmation dialogs before irreversible actions (e.g., deleting an account).
+- Use inline validation to prevent form errors before submission.
+
+### 6. Recognition Rather Than Recall
+The user interface should display important information, reducing the need for users to remember details.
+
+Real-Life Example:
+Netflix suggests “Continue Watching” for users, so they don’t have to remember where they left off.
+
+Best Practice:
+- Provide dropdown menus instead of requiring users to type frequently used inputs.
+- Display recently accessed files or search history.
+
+### 7. Flexibility and Efficiency of Use
+A system should cater to both beginners and advanced users by offering shortcuts and customization options.
+
+Real-Life Example:
+Microsoft Word allows users to use both menus and keyboard shortcuts (e.g., Ctrl + C for copy), making it suitable for all skill levels.
+
+Best Practice:
+- Enable keyboard shortcuts for frequent actions.
+- Allow users to customize dashboards and toolbars.
+
+### 8. Aesthetic and Minimalist Design
+A clutter-free interface improves user experience by focusing on essential elements.
+
+Real-Life Example:
+Apple’s website has a clean design with minimal text and high-quality images, making navigation effortless.
+
+Best Practice:
+- Remove unnecessary elements and distractions.
+- Use whitespace effectively to improve readability.
+
+### 9. Help Users Recognize, Diagnose, and Recover from Errors
+Error messages should be clear and constructive, helping users resolve issues without frustration.
+
+Real-Life Example:
+When entering the wrong password, most websites highlight the issue and offer a “Forgot Password” link.
+
+Best Practice:
+- Provide error messages that explain the problem and suggest a solution.
+- Use color codes (e.g., red for errors, green for success) to make messages more intuitive.
+
+### 10. Help and Documentation
+Even though a well-designed system should be easy to use, having accessible documentation is essential for troubleshooting.
+
+Real-Life Example:
+Software like Adobe Photoshop provides tooltips and a help section with step-by-step tutorials for new users.
+
+Best Practice:
+- Include a search function in the help section.
+- Provide FAQs and video tutorials for common issues.

@@ -119,6 +119,19 @@ Best Practice:
   - Available hardware (monitor size, acceptance of plugins, cell-phones vs. desktop)
   - Social context of use
 
+#### "Personas"
+- Popularized by Alan Cooper
+- User archetype you can use to help guide decisions about design decisions
+- Created *after* contextual inquiry or equivalent
+- Summarizes properties of a group of users
+- Use: helps keep designers & implementers focused on user needs
+- See, e.g.:
+  - [http://www.cooper.com/newsletters/2001_07/perfecting_your_personas.htm](http://www.cooper.com/newsletters/2001_07/perfecting_your_personas.htm)
+- Include: behavior patterns, goals, skills, attitudes, and environment, with a few fictional personal details to bring the persona to life
+- Have a small number for each product
+  - One for each important group of users
+
+
 ### 2. carrying out competitive analysis
 ### 3. establishing appropriate usability goals
 ### 4. carrying out parallel designs

@@ -99,3 +99,18 @@ Software like Adobe Photoshop provides tooltips and a help section with step-by-
 Best Practice:
 - Include a search function in the help section.
 - Provide FAQs and video tutorials for common issues.
+
+---
+
+Usability Engineering Steps: 
+1. knowing about all potential users
+2. carrying out competitive analysis
+3. establishing appropriate usability goals
+4. carrying out parallel designs
+5. carrying out participatory design
+6. coordinating the entire user interface
+7. applying guidelines
+8. prototyping
+9. carrying out interface evaluation
+10. performing iterative design
+11. obtaining data from actual field applications.

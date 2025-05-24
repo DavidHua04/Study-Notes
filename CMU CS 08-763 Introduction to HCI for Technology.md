@@ -130,7 +130,7 @@ Best Practice:
   - One for each important group of users
 
 **Persona Example**
-From: [http://www.steptwo.com.au/papers/kmc_personas/](http://www.steptwo.com.au/papers/kmc_personas/)
+(From: [http://www.steptwo.com.au/papers/kmc_personas/](http://www.steptwo.com.au/papers/kmc_personas/))
 ```
 Bob is 52 years old and works as a mechanic with an organisation offering road service to customers when their car breaks down. He has worked in the job for the past 12 years and knows it well. Many of the younger mechanics ask Bob for advice when they meet up in the depot as he always knows the answer to tricky mechanical problems. Bob likes sharing his knowledge with the younger guys, as it makes him feel a valued part of the team.
 

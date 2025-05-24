@@ -142,7 +142,16 @@ Bob’s been told that he will be able to access the intranet on the new compute
 
 Bob wonders if he will be able to cope with the new computer system. He doesn’t mind asking his grandchildren for help when he wants to send an email to his brother overseas, but asking the guys at work for help is another story.
 ```
+#### Task analysis
 
+- What tasks the users will do?
+- Involve users in this
+- Important to include exceptions and error conditions
+- Many different kinds and variations on TaskAnalyses
+  - Nielsen's
+  - “Hierarchical Task Analysis”-in textbook
+  - (Better to use Cl)
+- Need tasks to design Cls, usability analysis, scenarios
 
 ### 2. carrying out competitive analysis
 ### 3. establishing appropriate usability goals

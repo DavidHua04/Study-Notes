@@ -1,4 +1,5 @@
-**Important Lectures: [Lecture 9](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=11f089d6-843a-4b37-a49e-b7460ef0debb)
+**Important Lectures**: 
+- [Lecture 9](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=11f089d6-843a-4b37-a49e-b7460ef0debb)
 ---
 ## Nielsen's 10 Usability Heuristics with Examples
 ### 1. Visibility of System Status

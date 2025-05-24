@@ -129,9 +129,9 @@ Best Practice:
 - Have a small number for each product
   - One for each important group of users
 
-##### Persona Example
+**Persona Example**
 From: [http://www.steptwo.com.au/papers/kmc_personas/](http://www.steptwo.com.au/papers/kmc_personas/)
-
+```
 Bob is 52 years old and works as a mechanic with an organisation offering road service to customers when their car breaks down. He has worked in the job for the past 12 years and knows it well. Many of the younger mechanics ask Bob for advice when they meet up in the depot as he always knows the answer to tricky mechanical problems. Bob likes sharing his knowledge with the younger guys, as it makes him feel a valued part of the team.
 
 Bob works rolling day and night shifts and spends his shifts attending breakdowns and lockouts (when customers lock their keys in the car). About 20% of the jobs he attends are complex and he occasionally needs to refer to his standard issue manuals. Bob tries to avoid using the manuals in front of customers as he thinks it gives the impression he doesn’t know what he’s doing.
@@ -141,6 +141,8 @@ Bob has seen many changes over the years with the company and has tried his best
 Bob’s been told that he will be able to access the intranet on the new computer. He has heard about the intranet and saw once in an early version on his manager’s computer. He wonders if he will be able to find out what’s going on in the company more easily, especially as customers seem to know more about the latest company news than he does when he turns up at a job. This can be embarrassing and has been a source of frustration for Bob throughout his time with the company.
 
 Bob wonders if he will be able to cope with the new computer system. He doesn’t mind asking his grandchildren for help when he wants to send an email to his brother overseas, but asking the guys at work for help is another story.
+```
+
 
 ### 2. carrying out competitive analysis
 ### 3. establishing appropriate usability goals

@@ -104,14 +104,30 @@ Best Practice:
 
 ## Usability Engineering Steps: 
 
-1. knowing about all potential users
-2. carrying out competitive analysis
-3. establishing appropriate usability goals
-4. carrying out parallel designs
-5. carrying out participatory design
-6. coordinating the entire user interface
-7. applying guidelines
-8. prototyping
-9. carrying out interface evaluation
-10. performing iterative design
-11. obtaining data from actual field applications.
+### 1. knowing about all potential users
+- **Study the intended users and the use of the product**
+  - Best if developers go and interview them personally
+
+- **Difficult because**
+  - May want to hide the developers
+  - Reluctance of sales people
+  - Reluctance of users
+
+- **User Characteristics**
+  - Work experience, education level, age, previous computer experience
+  - Time for learning, training
+  - Available hardware (monitor size, acceptance of plugins, cell-phones vs. desktop)
+  - Social context of use
+
+### 2. carrying out competitive analysis
+### 3. establishing appropriate usability goals
+### 4. carrying out parallel designs
+### 5. carrying out participatory design
+### 6. coordinating the entire user interface
+### 7. applying guidelines
+### 8. prototyping
+### 9. carrying out interface evaluation
+### 10. performing iterative design
+### 11. obtaining data from actual field applications.
+
+

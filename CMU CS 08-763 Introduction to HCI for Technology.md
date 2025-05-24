@@ -1,3 +1,5 @@
+**Important Lectures: [https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=11f089d6-843a-4b37-a49e-b7460ef0debb](Lecture 9)
+---
 ## Nielsen's 10 Usability Heuristics with Examples
 ### 1. Visibility of System Status
 A well-designed system should always keep users informed about what is happening through appropriate feedback within a reasonable time.
@@ -142,8 +144,8 @@ Bob’s been told that he will be able to access the intranet on the new compute
 
 Bob wonders if he will be able to cope with the new computer system. He doesn’t mind asking his grandchildren for help when he wants to send an email to his brother overseas, but asking the guys at work for help is another story.
 ```
+### 2. carrying out competitive analysis
 #### Task analysis
-
 - What tasks the users will do?
 - Involve users in this
 - Important to include exceptions and error conditions
@@ -153,7 +155,7 @@ Bob wonders if he will be able to cope with the new computer system. He doesn’
   - (Better to use Cl)
 - Need tasks to design Cls, usability analysis, scenarios
 
-### 2. carrying out competitive analysis
+
 ### 3. establishing appropriate usability goals
 ### 4. carrying out parallel designs
 ### 5. carrying out participatory design
@@ -163,5 +165,4 @@ Bob wonders if he will be able to cope with the new computer system. He doesn’
 ### 9. carrying out interface evaluation
 ### 10. performing iterative design
 ### 11. obtaining data from actual field applications.
-
 

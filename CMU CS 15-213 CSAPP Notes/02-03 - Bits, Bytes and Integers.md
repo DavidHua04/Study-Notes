@@ -32,6 +32,46 @@ e.g.
 0x69 | 0x55 -> 0x7D
 ```
 ---
+## Shift Operations
+
+### Left Shift
+- **Operation:** `x << y`  
+- **Description:** Shift bit-vector `x` left by `y` positions.  
+  - Extra bits on the left are discarded.  
+  - New bits on the right are filled with `0`s.  
+
+### Right Shift
+- **Operation:** `x >> y`  
+- **Description:** Shift bit-vector `x` right by `y` positions.  
+  - Extra bits on the right are discarded.  
+  - **Logical Shift:**  
+    - Fills new bits on the left with `0`s.  
+  - **Arithmetic Shift:**  
+    - Replicates the most significant bit (MSB) on the left.  
+
+### Undefined Behavior
+- Occurs when the shift amount is:  
+  - Less than `0`.  
+  - Greater than or equal to the word size.  
+
+### Examples
+
+| Operation   | Result     |
+|-------------|------------|
+| Original    | `01100010` |
+| `<< 3`      | `00010000` |
+| Logical `>> 2` | `00011000` |
+| Arithmetic `>> 2` | `00011000` |
+
+
+| Operation   | Result     |
+|-------------|------------|
+| Original    | `10100010` |
+| `<< 3`      | `00010000` |
+| Logical `>> 2` | `00101000` |
+| Arithmetic `>> 2` | `11101000` |
+
+---
 
 **Word size**: Nominal size of pointer data. _64-bit_ machine means 8-byte addresses and _32-bit_ machine means 4-byte addresses.
 
